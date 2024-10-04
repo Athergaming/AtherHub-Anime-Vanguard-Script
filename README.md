@@ -78,5 +78,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/AtherHub-
 # Contact or Report Bugs
 If your a new scripter and need help, dm me and ask me questions or problems your having, I will try to help as much as I can, but remember I am not always available so I can't promise an instant reply.
 
-``Discord:[ goatofall](https://discord.gg/9CVeh6CZSk)``
+``Discord: https://discord.gg/9CVeh6CZSk``
 > Join if you have issues, or bugs
